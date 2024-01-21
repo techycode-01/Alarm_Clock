@@ -11,5 +11,7 @@ Delete alarms that are no longer needed.
 
 # Technologies Used
 <b>HTML
+<br>
 <b>CSS
+<br>
 <b>JavaScript
