@@ -10,6 +10,6 @@ Receive visual and audio notifications when the alarm goes off.
 Delete alarms that are no longer needed.
 
 # Technologies Used
-<b>HTML</b>
-<b>CSS</>
-<b>JavaScript</>
+<b>HTML
+<b>CSS
+<b>JavaScript
